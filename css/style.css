@@ -1,0 +1,30 @@
+body {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(120deg, #e0c3fc 0%, #3399cc 100%);
+}
+
+.profile-image {
+    display: block;
+    margin: 0 auto;
+    border: 3px solid white;
+    height: 96px;
+    width: 96px;
+}
+
+.profile-name h1{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.profile-list p {
+    line-height: 1.5;
+    font-size: 18px;
+    padding: 10px 0;
+}
+
+.profile-sosmed a {
+    font-size: 18px;
+    margin: 0 6px;
+}
